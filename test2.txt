@@ -1,0 +1,11 @@
+ Volume in drive C is System
+ Volume Serial Number is 8C24-4242
+
+ Directory of C:\Users\ABTELU\Documents\MyFolderGitDemo
+
+01/09/2023  01:42 PM    <DIR>          .
+01/09/2023  01:09 PM    <DIR>          ..
+01/09/2023  01:22 PM                 3 Name.txt
+01/09/2023  01:42 PM                 0 test2.txt
+               2 File(s)              3 bytes
+               2 Dir(s)  383,470,493,696 bytes free
